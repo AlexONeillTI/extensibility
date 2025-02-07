@@ -1,4 +1,3 @@
-import React from "react";
 import WhatWeDoTile from "./WhatWeDoTile";
 
 const WhatWeDo = () => {

@@ -1,5 +1,3 @@
-import React from "react";
-
 const Nav = () => {
   return (
     <nav className="flex items-center justify-between w-full p-4 text-center py-2 space-y-2">
